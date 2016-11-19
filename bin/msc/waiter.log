@@ -1,0 +1,507 @@
+============================================================
+Time  2016/11/12 10:21:34 264 
+============================================================
+[2016/11/12 10:21:34 264] waiter     120  waiter loaded!  
+[2016/11/12 10:21:34 265] network    426  update_iplist  
+[2016/11/12 10:21:34 265] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 10:21:34 265] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 10:21:34 265] waiter     196  last gc at  1478917294  
+[2016/11/12 10:21:34 386] network    426  update_iplist  
+[2016/11/12 10:21:34 386] waiter     196  last gc at  1478917294  
+[2016/11/12 10:21:36 261] network    426  update_iplist  
+[2016/11/12 10:21:36 262] waiter     196  last gc at  1478917294  
+[2016/11/12 10:21:36 577] network    426  update_iplist  
+[2016/11/12 10:21:36 577] waiter     196  last gc at  1478917294  
+[2016/11/12 10:21:36 799] network    173  dns resp  0  
+[2016/11/12 10:21:36 799] network    316  gethttpresp dns ok  117.121.21.146  
+[2016/11/12 10:21:36 799] network    207  gethttpresp2  117.121.21.146  80  
+[2016/11/12 10:21:36 832] network    232  connected  
+[2016/11/12 10:21:36 833] network    235  send ok  92  
+[2016/11/12 10:21:36 868] network    238  readable  
+[2016/11/12 10:21:36 869] network    549  update iplist http resp  nil  0  udata(b0019908) 
+[2016/11/12 10:21:36 869] network    573  update iplist ok  
+[2016/11/12 10:21:36 870] network    595  not encrypted!  
+[2016/11/12 10:21:36 873] network    497  open.xf-yun.com  
+[2016/11/12 10:21:36 873] network    508  bj  
+[2016/11/12 10:21:36 873] network    510  bj  
+[2016/11/12 10:21:36 873] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 10:21:36 874] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 10:21:36 875] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 10:21:36 877] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 10:21:36 878] network    510  gz  
+[2016/11/12 10:21:36 879] network    510  hf  
+============================================================
+Time  2016/11/12 10:52:44 531 
+============================================================
+[2016/11/12 10:52:44 531] waiter     120  waiter loaded!  
+[2016/11/12 10:52:44 533] network    426  update_iplist  
+[2016/11/12 10:52:44 533] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 10:52:44 533] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 10:52:44 533] waiter     196  last gc at  1478919164  
+[2016/11/12 10:52:44 691] network    426  update_iplist  
+[2016/11/12 10:52:44 691] waiter     196  last gc at  1478919164  
+[2016/11/12 10:52:46 036] network    173  dns resp  0  
+[2016/11/12 10:52:46 036] network    316  gethttpresp dns ok  117.121.21.147  
+[2016/11/12 10:52:46 036] network    207  gethttpresp2  117.121.21.147  80  
+[2016/11/12 10:52:46 068] network    232  connected  
+[2016/11/12 10:52:46 069] network    235  send ok  92  
+[2016/11/12 10:52:46 103] network    238  readable  
+[2016/11/12 10:52:46 104] network    549  update iplist http resp  nil  0  udata(2c019918) 
+[2016/11/12 10:52:46 104] network    573  update iplist ok  
+[2016/11/12 10:52:46 104] network    595  not encrypted!  
+[2016/11/12 10:52:46 106] network    497  open.xf-yun.com  
+[2016/11/12 10:52:46 106] network    508  bj  
+[2016/11/12 10:52:46 106] network    510  bj  
+[2016/11/12 10:52:46 106] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 10:52:46 107] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 10:52:46 108] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 10:52:46 109] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 10:52:46 110] network    510  gz  
+[2016/11/12 10:52:46 110] network    510  hf  
+============================================================
+Time  2016/11/12 10:55:33 275 
+============================================================
+[2016/11/12 10:55:33 275] waiter     120  waiter loaded!  
+[2016/11/12 10:55:33 277] network    426  update_iplist  
+[2016/11/12 10:55:33 277] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 10:55:33 277] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 10:55:33 278] waiter     196  last gc at  1478919333  
+[2016/11/12 10:55:33 420] network    426  update_iplist  
+[2016/11/12 10:55:33 420] waiter     196  last gc at  1478919333  
+[2016/11/12 10:55:33 745] network    173  dns resp  0  
+[2016/11/12 10:55:33 746] network    316  gethttpresp dns ok  117.121.21.150  
+[2016/11/12 10:55:33 746] network    207  gethttpresp2  117.121.21.150  80  
+[2016/11/12 10:55:33 778] network    232  connected  
+[2016/11/12 10:55:33 779] network    235  send ok  92  
+[2016/11/12 10:55:33 789] network    426  update_iplist  
+[2016/11/12 10:55:33 789] waiter     196  last gc at  1478919333  
+[2016/11/12 10:55:33 815] network    238  readable  
+[2016/11/12 10:55:33 817] network    549  update iplist http resp  nil  0  udata(8019918) 
+[2016/11/12 10:55:33 817] network    573  update iplist ok  
+[2016/11/12 10:55:33 817] network    595  not encrypted!  
+[2016/11/12 10:55:33 819] network    497  open.xf-yun.com  
+[2016/11/12 10:55:33 820] network    508  bj  
+[2016/11/12 10:55:33 820] network    510  bj  
+[2016/11/12 10:55:33 820] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 10:55:33 820] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 10:55:33 821] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 10:55:33 822] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 10:55:33 823] network    510  gz  
+[2016/11/12 10:55:33 823] network    510  hf  
+============================================================
+Time  2016/11/12 10:55:56 356 
+============================================================
+[2016/11/12 10:55:56 356] waiter     120  waiter loaded!  
+[2016/11/12 10:55:56 356] network    426  update_iplist  
+[2016/11/12 10:55:56 356] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 10:55:56 361] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 10:55:56 361] waiter     196  last gc at  1478919356  
+[2016/11/12 10:55:56 506] network    426  update_iplist  
+[2016/11/12 10:55:56 506] waiter     196  last gc at  1478919356  
+[2016/11/12 10:55:57 178] network    173  dns resp  0  
+[2016/11/12 10:55:57 178] network    316  gethttpresp dns ok  117.121.21.146  
+[2016/11/12 10:55:57 178] network    207  gethttpresp2  117.121.21.146  80  
+[2016/11/12 10:55:57 212] network    232  connected  
+[2016/11/12 10:55:57 213] network    235  send ok  92  
+[2016/11/12 10:55:57 222] network    426  update_iplist  
+[2016/11/12 10:55:57 222] waiter     196  last gc at  1478919356  
+[2016/11/12 10:55:57 248] network    238  readable  
+[2016/11/12 10:55:57 249] network    549  update iplist http resp  nil  0  udata(f4019968) 
+[2016/11/12 10:55:57 249] network    573  update iplist ok  
+[2016/11/12 10:55:57 249] network    595  not encrypted!  
+[2016/11/12 10:55:57 251] network    497  open.xf-yun.com  
+[2016/11/12 10:55:57 251] network    508  bj  
+[2016/11/12 10:55:57 251] network    510  bj  
+[2016/11/12 10:55:57 251] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 10:55:57 251] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 10:55:57 252] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 10:55:57 253] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 10:55:57 254] network    510  gz  
+[2016/11/12 10:55:57 254] network    510  hf  
+============================================================
+Time  2016/11/12 10:59:37 371 
+============================================================
+[2016/11/12 10:59:37 371] waiter     120  waiter loaded!  
+[2016/11/12 10:59:37 373] network    426  update_iplist  
+[2016/11/12 10:59:37 373] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 10:59:37 373] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 10:59:37 373] waiter     196  last gc at  1478919577  
+[2016/11/12 10:59:37 516] network    426  update_iplist  
+[2016/11/12 10:59:37 516] waiter     196  last gc at  1478919577  
+[2016/11/12 10:59:39 294] network    173  dns resp  0  
+[2016/11/12 10:59:39 294] network    316  gethttpresp dns ok  117.121.21.147  
+[2016/11/12 10:59:39 294] network    207  gethttpresp2  117.121.21.147  80  
+[2016/11/12 10:59:39 327] network    232  connected  
+[2016/11/12 10:59:39 328] network    235  send ok  92  
+[2016/11/12 10:59:39 362] network    238  readable  
+[2016/11/12 10:59:39 363] network    549  update iplist http resp  nil  0  udata(c80199a8) 
+[2016/11/12 10:59:39 363] network    573  update iplist ok  
+[2016/11/12 10:59:39 364] network    595  not encrypted!  
+[2016/11/12 10:59:39 365] network    497  open.xf-yun.com  
+[2016/11/12 10:59:39 366] network    508  bj  
+[2016/11/12 10:59:39 366] network    510  bj  
+[2016/11/12 10:59:39 366] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 10:59:39 368] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 10:59:39 369] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 10:59:39 370] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 10:59:39 371] network    510  gz  
+[2016/11/12 10:59:39 371] network    510  hf  
+============================================================
+Time  2016/11/12 10:59:55 230 
+============================================================
+[2016/11/12 10:59:55 230] waiter     120  waiter loaded!  
+[2016/11/12 10:59:55 231] network    426  update_iplist  
+[2016/11/12 10:59:55 231] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 10:59:55 231] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 10:59:55 232] waiter     196  last gc at  1478919595  
+[2016/11/12 10:59:55 354] network    426  update_iplist  
+[2016/11/12 10:59:55 354] waiter     196  last gc at  1478919595  
+[2016/11/12 10:59:55 612] network    173  dns resp  0  
+[2016/11/12 10:59:55 612] network    316  gethttpresp dns ok  117.121.21.146  
+[2016/11/12 10:59:55 612] network    207  gethttpresp2  117.121.21.146  80  
+[2016/11/12 10:59:55 645] network    232  connected  
+[2016/11/12 10:59:55 646] network    235  send ok  92  
+[2016/11/12 10:59:55 681] network    238  readable  
+[2016/11/12 10:59:55 682] network    549  update iplist http resp  nil  0  udata(900199a8) 
+[2016/11/12 10:59:55 682] network    573  update iplist ok  
+[2016/11/12 10:59:55 682] network    595  not encrypted!  
+[2016/11/12 10:59:55 684] network    497  open.xf-yun.com  
+[2016/11/12 10:59:55 684] network    508  bj  
+[2016/11/12 10:59:55 684] network    510  bj  
+[2016/11/12 10:59:55 684] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 10:59:55 685] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 10:59:55 685] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 10:59:55 686] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 10:59:55 687] network    510  gz  
+[2016/11/12 10:59:55 687] network    510  hf  
+============================================================
+Time  2016/11/12 11:00:02 802 
+============================================================
+[2016/11/12 11:00:02 803] waiter     120  waiter loaded!  
+[2016/11/12 11:00:02 803] network    426  update_iplist  
+[2016/11/12 11:00:02 803] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:00:02 803] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:00:02 803] waiter     196  last gc at  1478919602  
+[2016/11/12 11:00:02 946] network    426  update_iplist  
+[2016/11/12 11:00:02 946] waiter     196  last gc at  1478919602  
+[2016/11/12 11:00:03 574] network    173  dns resp  0  
+[2016/11/12 11:00:03 575] network    316  gethttpresp dns ok  117.121.21.150  
+[2016/11/12 11:00:03 575] network    207  gethttpresp2  117.121.21.150  80  
+[2016/11/12 11:00:03 607] network    232  connected  
+[2016/11/12 11:00:03 608] network    235  send ok  92  
+[2016/11/12 11:00:03 664] network    426  update_iplist  
+[2016/11/12 11:00:03 664] waiter     196  last gc at  1478919602  
+[2016/11/12 11:00:03 665] network    238  readable  
+[2016/11/12 11:00:03 666] network    549  update iplist http resp  nil  0  udata(74019948) 
+[2016/11/12 11:00:03 666] network    573  update iplist ok  
+[2016/11/12 11:00:03 666] network    595  not encrypted!  
+[2016/11/12 11:00:03 668] network    497  open.xf-yun.com  
+[2016/11/12 11:00:03 668] network    508  bj  
+[2016/11/12 11:00:03 668] network    510  bj  
+[2016/11/12 11:00:03 669] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:00:03 669] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:00:03 670] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:00:03 670] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:00:03 671] network    510  gz  
+[2016/11/12 11:00:03 672] network    510  hf  
+============================================================
+Time  2016/11/12 11:02:15 704 
+============================================================
+[2016/11/12 11:02:15 704] waiter     120  waiter loaded!  
+[2016/11/12 11:02:15 706] network    426  update_iplist  
+[2016/11/12 11:02:15 706] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:02:15 706] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:02:15 706] waiter     196  last gc at  1478919735  
+[2016/11/12 11:02:15 846] network    426  update_iplist  
+[2016/11/12 11:02:15 846] waiter     196  last gc at  1478919735  
+[2016/11/12 11:02:16 331] network    173  dns resp  0  
+[2016/11/12 11:02:16 331] network    316  gethttpresp dns ok  117.121.21.149  
+[2016/11/12 11:02:16 331] network    207  gethttpresp2  117.121.21.149  80  
+[2016/11/12 11:02:16 364] network    232  connected  
+[2016/11/12 11:02:16 365] network    235  send ok  92  
+[2016/11/12 11:02:16 399] network    238  readable  
+[2016/11/12 11:02:16 400] network    549  update iplist http resp  nil  0  udata(c8019948) 
+[2016/11/12 11:02:16 400] network    573  update iplist ok  
+[2016/11/12 11:02:16 400] network    595  not encrypted!  
+[2016/11/12 11:02:16 402] network    497  open.xf-yun.com  
+[2016/11/12 11:02:16 402] network    508  bj  
+[2016/11/12 11:02:16 402] network    510  bj  
+[2016/11/12 11:02:16 402] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:02:16 403] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:02:16 403] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:02:16 404] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:02:16 405] network    510  gz  
+[2016/11/12 11:02:16 405] network    510  hf  
+============================================================
+Time  2016/11/12 11:07:29 206 
+============================================================
+[2016/11/12 11:07:29 206] waiter     120  waiter loaded!  
+[2016/11/12 11:07:29 208] network    426  update_iplist  
+[2016/11/12 11:07:29 208] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:07:29 208] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:07:29 208] waiter     196  last gc at  1478920049  
+[2016/11/12 11:07:29 341] network    426  update_iplist  
+[2016/11/12 11:07:29 341] waiter     196  last gc at  1478920049  
+[2016/11/12 11:07:30 715] network    173  dns resp  0  
+[2016/11/12 11:07:30 715] network    316  gethttpresp dns ok  117.121.21.147  
+[2016/11/12 11:07:30 716] network    207  gethttpresp2  117.121.21.147  80  
+[2016/11/12 11:07:30 738] network    232  connected  
+[2016/11/12 11:07:30 739] network    235  send ok  92  
+[2016/11/12 11:07:30 773] network    238  readable  
+[2016/11/12 11:07:30 775] network    549  update iplist http resp  nil  0  udata(d80199b8) 
+[2016/11/12 11:07:30 775] network    573  update iplist ok  
+[2016/11/12 11:07:30 775] network    595  not encrypted!  
+[2016/11/12 11:07:30 777] network    497  open.xf-yun.com  
+[2016/11/12 11:07:30 777] network    508  bj  
+[2016/11/12 11:07:30 777] network    510  bj  
+[2016/11/12 11:07:30 777] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:07:30 777] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:07:30 778] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:07:30 779] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:07:30 780] network    510  gz  
+[2016/11/12 11:07:30 780] network    510  hf  
+============================================================
+Time  2016/11/12 11:07:50 709 
+============================================================
+[2016/11/12 11:07:50 709] waiter     120  waiter loaded!  
+[2016/11/12 11:07:50 710] network    426  update_iplist  
+[2016/11/12 11:07:50 710] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:07:50 710] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:07:50 710] waiter     196  last gc at  1478920070  
+[2016/11/12 11:07:50 844] network    426  update_iplist  
+[2016/11/12 11:07:50 844] waiter     196  last gc at  1478920070  
+[2016/11/12 11:07:51 358] network    173  dns resp  0  
+[2016/11/12 11:07:51 359] network    316  gethttpresp dns ok  117.121.21.149  
+[2016/11/12 11:07:51 359] network    207  gethttpresp2  117.121.21.149  80  
+[2016/11/12 11:07:51 381] network    232  connected  
+[2016/11/12 11:07:51 381] network    235  send ok  92  
+[2016/11/12 11:07:51 404] network    426  update_iplist  
+[2016/11/12 11:07:51 404] waiter     196  last gc at  1478920070  
+[2016/11/12 11:07:51 406] network    238  readable  
+[2016/11/12 11:07:51 420] network    238  readable  
+[2016/11/12 11:07:51 421] network    549  update iplist http resp  nil  0  udata(18016078) 
+[2016/11/12 11:07:51 421] network    573  update iplist ok  
+[2016/11/12 11:07:51 422] network    595  not encrypted!  
+[2016/11/12 11:07:51 423] network    497  open.xf-yun.com  
+[2016/11/12 11:07:51 424] network    508  bj  
+[2016/11/12 11:07:51 424] network    510  bj  
+[2016/11/12 11:07:51 424] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:07:51 424] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:07:51 425] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:07:51 426] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:07:51 427] network    510  gz  
+[2016/11/12 11:07:51 427] network    510  hf  
+============================================================
+Time  2016/11/12 11:12:02 891 
+============================================================
+[2016/11/12 11:12:02 891] waiter     120  waiter loaded!  
+[2016/11/12 11:12:02 892] network    426  update_iplist  
+[2016/11/12 11:12:02 892] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:12:02 892] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:12:02 892] waiter     196  last gc at  1478920322  
+[2016/11/12 11:12:03 027] network    426  update_iplist  
+[2016/11/12 11:12:03 027] waiter     196  last gc at  1478920322  
+[2016/11/12 11:12:03 713] network    426  update_iplist  
+[2016/11/12 11:12:03 713] waiter     196  last gc at  1478920322  
+[2016/11/12 11:12:03 998] network    426  update_iplist  
+[2016/11/12 11:12:03 998] waiter     196  last gc at  1478920322  
+[2016/11/12 11:12:04 074] network    426  update_iplist  
+[2016/11/12 11:12:04 074] waiter     196  last gc at  1478920322  
+[2016/11/12 11:12:04 438] network    173  dns resp  0  
+[2016/11/12 11:12:04 439] network    316  gethttpresp dns ok  117.121.21.150  
+[2016/11/12 11:12:04 439] network    207  gethttpresp2  117.121.21.150  80  
+[2016/11/12 11:12:04 472] network    232  connected  
+[2016/11/12 11:12:04 473] network    235  send ok  92  
+[2016/11/12 11:12:04 508] network    238  readable  
+[2016/11/12 11:12:04 509] network    549  update iplist http resp  nil  0  udata(64019938) 
+[2016/11/12 11:12:04 509] network    573  update iplist ok  
+[2016/11/12 11:12:04 509] network    595  not encrypted!  
+[2016/11/12 11:12:04 511] network    497  open.xf-yun.com  
+[2016/11/12 11:12:04 511] network    508  bj  
+[2016/11/12 11:12:04 511] network    510  bj  
+[2016/11/12 11:12:04 511] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:12:04 512] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:12:04 513] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:12:04 513] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:12:04 514] network    510  gz  
+[2016/11/12 11:12:04 515] network    510  hf  
+============================================================
+Time  2016/11/12 11:13:51 790 
+============================================================
+[2016/11/12 11:13:51 790] waiter     120  waiter loaded!  
+[2016/11/12 11:13:51 792] network    426  update_iplist  
+[2016/11/12 11:13:51 792] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:13:51 792] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:13:51 792] waiter     196  last gc at  1478920431  
+[2016/11/12 11:13:51 916] network    426  update_iplist  
+[2016/11/12 11:13:51 917] waiter     196  last gc at  1478920431  
+[2016/11/12 11:13:53 372] network    173  dns resp  0  
+[2016/11/12 11:13:53 372] network    316  gethttpresp dns ok  117.121.21.146  
+[2016/11/12 11:13:53 372] network    207  gethttpresp2  117.121.21.146  80  
+[2016/11/12 11:13:53 406] network    232  connected  
+[2016/11/12 11:13:53 407] network    235  send ok  92  
+[2016/11/12 11:13:53 446] network    238  readable  
+[2016/11/12 11:13:53 448] network    549  update iplist http resp  nil  0  udata(e8019938) 
+[2016/11/12 11:13:53 448] network    573  update iplist ok  
+[2016/11/12 11:13:53 448] network    595  not encrypted!  
+[2016/11/12 11:13:53 450] network    497  open.xf-yun.com  
+[2016/11/12 11:13:53 450] network    508  bj  
+[2016/11/12 11:13:53 450] network    510  bj  
+[2016/11/12 11:13:53 450] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:13:53 451] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:13:53 451] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:13:53 452] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:13:53 454] network    510  gz  
+[2016/11/12 11:13:53 454] network    510  hf  
+============================================================
+Time  2016/11/12 11:14:33 610 
+============================================================
+[2016/11/12 11:14:33 610] waiter     120  waiter loaded!  
+[2016/11/12 11:14:33 616] network    426  update_iplist  
+[2016/11/12 11:14:33 616] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:14:33 617] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:14:33 617] waiter     196  last gc at  1478920473  
+[2016/11/12 11:14:33 770] network    426  update_iplist  
+[2016/11/12 11:14:33 770] waiter     196  last gc at  1478920473  
+[2016/11/12 11:14:34 108] network    173  dns resp  0  
+[2016/11/12 11:14:34 109] network    316  gethttpresp dns ok  117.121.21.149  
+[2016/11/12 11:14:34 109] network    207  gethttpresp2  117.121.21.149  80  
+[2016/11/12 11:14:34 144] network    232  connected  
+[2016/11/12 11:14:34 145] network    235  send ok  92  
+[2016/11/12 11:14:34 179] network    238  readable  
+[2016/11/12 11:14:34 181] network    549  update iplist http resp  nil  0  udata(d4019948) 
+[2016/11/12 11:14:34 181] network    573  update iplist ok  
+[2016/11/12 11:14:34 181] network    595  not encrypted!  
+[2016/11/12 11:14:34 183] network    497  open.xf-yun.com  
+[2016/11/12 11:14:34 183] network    508  bj  
+[2016/11/12 11:14:34 183] network    510  bj  
+[2016/11/12 11:14:34 183] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:14:34 184] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:14:34 185] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:14:34 186] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:14:34 187] network    510  gz  
+[2016/11/12 11:14:34 187] network    510  hf  
+============================================================
+Time  2016/11/12 11:14:48 165 
+============================================================
+[2016/11/12 11:14:48 165] waiter     120  waiter loaded!  
+[2016/11/12 11:14:48 166] network    426  update_iplist  
+[2016/11/12 11:14:48 166] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 11:14:48 166] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 11:14:48 166] waiter     196  last gc at  1478920488  
+[2016/11/12 11:14:48 310] network    426  update_iplist  
+[2016/11/12 11:14:48 310] waiter     196  last gc at  1478920488  
+[2016/11/12 11:14:48 563] network    173  dns resp  0  
+[2016/11/12 11:14:48 563] network    316  gethttpresp dns ok  117.121.21.149  
+[2016/11/12 11:14:48 564] network    207  gethttpresp2  117.121.21.149  80  
+[2016/11/12 11:14:48 596] network    232  connected  
+[2016/11/12 11:14:48 597] network    235  send ok  92  
+[2016/11/12 11:14:48 614] network    426  update_iplist  
+[2016/11/12 11:14:48 614] waiter     196  last gc at  1478920488  
+[2016/11/12 11:14:48 629] network    238  readable  
+[2016/11/12 11:14:48 631] network    549  update iplist http resp  nil  0  udata(b4019958) 
+[2016/11/12 11:14:48 631] network    573  update iplist ok  
+[2016/11/12 11:14:48 631] network    595  not encrypted!  
+[2016/11/12 11:14:48 633] network    497  open.xf-yun.com  
+[2016/11/12 11:14:48 633] network    508  bj  
+[2016/11/12 11:14:48 633] network    510  bj  
+[2016/11/12 11:14:48 633] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 11:14:48 634] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 11:14:48 635] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 11:14:48 635] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 11:14:48 646] network    510  gz  
+[2016/11/12 11:14:48 646] network    510  hf  
+============================================================
+Time  2016/11/12 14:08:59 955 
+============================================================
+[2016/11/12 14:08:59 955] waiter     120  waiter loaded!  
+[2016/11/12 14:08:59 956] network    426  update_iplist  
+[2016/11/12 14:08:59 956] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 14:08:59 956] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 14:08:59 956] waiter     196  last gc at  1478930939  
+[2016/11/12 14:09:00 091] network    426  update_iplist  
+[2016/11/12 14:09:00 091] waiter     196  last gc at  1478930939  
+[2016/11/12 14:09:01 270] network    426  update_iplist  
+[2016/11/12 14:09:01 271] waiter     196  last gc at  1478930939  
+[2016/11/12 14:09:01 657] network    426  update_iplist  
+[2016/11/12 14:09:01 657] waiter     196  last gc at  1478930939  
+[2016/11/12 14:09:02 258] network    173  dns resp  0  
+[2016/11/12 14:09:02 258] network    316  gethttpresp dns ok  117.121.21.147  
+[2016/11/12 14:09:02 258] network    207  gethttpresp2  117.121.21.147  80  
+[2016/11/12 14:09:02 283] network    232  connected  
+[2016/11/12 14:09:02 284] network    235  send ok  92  
+[2016/11/12 14:09:02 310] network    238  readable  
+[2016/11/12 14:09:02 312] network    549  update iplist http resp  nil  0  udata(8019918) 
+[2016/11/12 14:09:02 312] network    573  update iplist ok  
+[2016/11/12 14:09:02 312] network    595  not encrypted!  
+[2016/11/12 14:09:02 314] network    497  open.xf-yun.com  
+[2016/11/12 14:09:02 314] network    508  bj  
+[2016/11/12 14:09:02 314] network    510  bj  
+[2016/11/12 14:09:02 314] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 14:09:02 314] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 14:09:02 315] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 14:09:02 317] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 14:09:02 318] network    510  gz  
+[2016/11/12 14:09:02 318] network    510  hf  
+============================================================
+Time  2016/11/12 14:09:19 539 
+============================================================
+[2016/11/12 14:09:19 539] waiter     120  waiter loaded!  
+[2016/11/12 14:09:19 539] network    426  update_iplist  
+[2016/11/12 14:09:19 539] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 14:09:19 539] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 14:09:19 540] waiter     196  last gc at  1478930959  
+[2016/11/12 14:09:19 682] network    426  update_iplist  
+[2016/11/12 14:09:19 682] waiter     196  last gc at  1478930959  
+[2016/11/12 14:09:19 795] network    426  update_iplist  
+[2016/11/12 14:09:19 795] waiter     196  last gc at  1478930959  
+[2016/11/12 14:09:20 013] network    426  update_iplist  
+[2016/11/12 14:09:20 013] waiter     196  last gc at  1478930959  
+[2016/11/12 14:09:20 653] network    426  update_iplist  
+[2016/11/12 14:09:20 653] waiter     196  last gc at  1478930959  
+[2016/11/12 14:09:21 009] network    173  dns resp  0  
+[2016/11/12 14:09:21 009] network    316  gethttpresp dns ok  117.121.21.147  
+[2016/11/12 14:09:21 009] network    207  gethttpresp2  117.121.21.147  80  
+[2016/11/12 14:09:21 031] network    232  connected  
+[2016/11/12 14:09:21 032] network    235  send ok  92  
+[2016/11/12 14:09:21 068] network    238  readable  
+[2016/11/12 14:09:21 069] network    549  update iplist http resp  nil  0  udata(ec0199b8) 
+[2016/11/12 14:09:21 069] network    573  update iplist ok  
+[2016/11/12 14:09:21 069] network    595  not encrypted!  
+[2016/11/12 14:09:21 071] network    497  open.xf-yun.com  
+[2016/11/12 14:09:21 071] network    508  bj  
+[2016/11/12 14:09:21 071] network    510  bj  
+[2016/11/12 14:09:21 072] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 14:09:21 072] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 14:09:21 073] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 14:09:21 073] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 14:09:21 074] network    510  gz  
+[2016/11/12 14:09:21 074] network    510  hf  
+============================================================
+Time  2016/11/12 14:12:38 221 
+============================================================
+[2016/11/12 14:12:38 221] waiter     120  waiter loaded!  
+[2016/11/12 14:12:38 223] network    426  update_iplist  
+[2016/11/12 14:12:38 223] network    330  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  standard  
+[2016/11/12 14:12:38 223] network    312  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  
+[2016/11/12 14:12:38 223] waiter     196  last gc at  1478931158  
+[2016/11/12 14:12:38 360] network    426  update_iplist  
+[2016/11/12 14:12:38 360] waiter     196  last gc at  1478931158  
+[2016/11/12 14:12:38 969] network    173  dns resp  0  
+[2016/11/12 14:12:38 970] network    316  gethttpresp dns ok  117.121.21.149  
+[2016/11/12 14:12:38 970] network    207  gethttpresp2  117.121.21.149  80  
+[2016/11/12 14:12:39 003] network    232  connected  
+[2016/11/12 14:12:39 004] network    235  send ok  92  
+[2016/11/12 14:12:39 039] network    238  readable  
+[2016/11/12 14:12:39 040] network    549  update iplist http resp  nil  0  udata(30019908) 
+[2016/11/12 14:12:39 040] network    573  update iplist ok  
+[2016/11/12 14:12:39 040] network    595  not encrypted!  
+[2016/11/12 14:12:39 043] network    497  open.xf-yun.com  
+[2016/11/12 14:12:39 043] network    508  bj  
+[2016/11/12 14:12:39 044] network    510  bj  
+[2016/11/12 14:12:39 044] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cm  117.121.56.3  
+[2016/11/12 14:12:39 044] network    88   iptoenv ,  ipcfg  open.xf-yun.com  ct  116.213.69.201  
+[2016/11/12 14:12:39 045] network    88   iptoenv ,  ipcfg  open.xf-yun.com  cu  117.121.56.8  
+[2016/11/12 14:12:39 046] network    88   iptoenv ,  ipcfg  open.xf-yun.com  def  116.213.69.199  
+[2016/11/12 14:12:39 047] network    510  gz  
+[2016/11/12 14:12:39 047] network    510  hf  
